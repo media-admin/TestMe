@@ -7,8 +7,8 @@
 /sitemap.xml.gz
 
 # Files in the root.
-*.html
-*.php
+**/*.html
+**/*.php
 *.pdf
 *.jpg
 *.jpeg
