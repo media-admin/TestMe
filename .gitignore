@@ -20,6 +20,7 @@
 wp-admin/*
 wp-includes/*
 wp-snapshots/*
+/wp-content/index.php
 
 # Ignore everything in the "wp-content" directory, except custom code.
 /wp-content/languages/*
