@@ -1,14 +1,14 @@
 # Configuration.
 /.htaccess
 /wp-config.php
+/*.html
+/*.php
 
 # Sitemap files.
 /sitemap.xml
 /sitemap.xml.gz
 
 # Files in the root.
-**/*.html
-**/*.php
 *.pdf
 *.jpg
 *.jpeg
